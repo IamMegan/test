@@ -1,7 +1,8 @@
 package ver2;
 
 public class Account {
-	// Instance variable, only available inside this class.
+	// Instance variables, only available inside this class.
+	// Balance, the amount of currency in a given account.
 	private double balance;
 	private String name;
 
